@@ -119,7 +119,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Lokalizacja"
       subtitle = "Poznaj zalety mieszkania w centrum Lubina"
-      image = "mapa lubin.PNG"
+      image = "mapa_lubin.jpg"
       url = "lokalizacja_mieszkania_sprzedaz_lubin.html"
 
     # You can make more showcases by copy and pasting the code above
