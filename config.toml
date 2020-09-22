@@ -47,10 +47,6 @@ disqusShortname = ""
     logo = "img/logo_male.png"
 
     [[params.navigation.links]]
-      name = "Strona główna"
-      url = "#"
-
-    [[params.navigation.links]]
       name = "O inwestycji"
       url = "o_inwestycji_mieszkania_sprzedaz_lubin.html"
 
@@ -166,7 +162,7 @@ disqusShortname = ""
 
     [[params.contact.phone]]
     title = "Telefon"
-    phone = "(000) 000-0000 x1234"
+    phone = "782 337 751"
 
     [[params.contact.address]]
     title = "DW-House Sp. z o.o."
