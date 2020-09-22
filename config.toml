@@ -1,5 +1,8 @@
+#github resource
+publishDir = "docs"
+
 # Site settings
-baseURL = "https://swiernia.github.io/"
+baseURL = "https://dw-house.pl/"
 languageCode = "en-us"
 title = "DW-House"
 theme = "forty"
