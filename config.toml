@@ -8,7 +8,7 @@ title = "DW-House"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-178771454-1"
 
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
@@ -158,7 +158,7 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "biuro@dw-house.pl"
 
     [[params.contact.phone]]
     title = "Telefon"
