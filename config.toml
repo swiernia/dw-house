@@ -131,7 +131,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "O nas"
-    subtitle = "Tekst dla Asi"
+    subtitle = "Jesteśmy nowoczesną firmą deweloperską, która ceni sobie jakość oraz terminowość. Przede wszystkim stawiamy na inwestycje zlokalizowane w centrach miast, które mają łatwy dostęp do wszelkich udogodnień miasta takich jak komunikacja miejska, sklepy, przedszkola czy szkoły. Stawiamy również na nowoczesny design naszych inwestycji, tak aby naszym klienom mieszkało się komfortowo, bezpiecznie oraz funkcjonalnie."
 
 
   # Contact section
@@ -162,7 +162,7 @@ disqusShortname = ""
 
     [[params.contact.phone]]
     title = "Telefon"
-    phone = "782 337 751"
+    phone = "(+48) 782 337 751"
 
     [[params.contact.address]]
     title = "DW-House Sp. z o.o."
