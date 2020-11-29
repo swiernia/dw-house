@@ -178,7 +178,7 @@ disqusShortname = ""
     # Uses font awesome icons
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com"
+      url= "https://www.facebook.com/DW-House-102192045046053"
       label = "Facebook"
 
     [[params.footer.social]]
