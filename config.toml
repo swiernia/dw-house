@@ -168,7 +168,7 @@ disqusShortname = ""
     title = "DW-House Sp. z o.o."
     street = "ul. Św. Marcin 29/8"
     city = "61-806 Poznań"
-    country = "NIP: 783-175-30-42"
+    country = "NIP: 783 175 30 42"
 
   # Footer section
   [params.footer]
