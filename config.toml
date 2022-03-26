@@ -2,7 +2,7 @@
 publishDir = "docs"
 
 # Site settings
-baseURL = "https://dw-house.pl/"
+baseURL = "www.dw-house.pl"
 #baseURL = "https://swiernia.github.io/dw-house"
 languageCode = "en-us"
 title = "DW-House"
