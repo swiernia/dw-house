@@ -98,7 +98,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "O inwestycji"
       subtitle = "Dlaczego warto tu mieszkać"
-      image = "ogród_galeria.png"
+      image = "Wizualizacja_frontowa_szafirowa.jpg"
       url = "o_inwestycji_mieszkania_sprzedaz_lubin.html"
 
     [[params.tiles.showcase]]
@@ -118,6 +118,18 @@ disqusShortname = ""
       subtitle = "Poznaj zalety mieszkania w centrum Lubina"
       image = "mapa_lubin.jpg"
       url = "lokalizacja_mieszkania_sprzedaz_lubin.html"
+
+    [[params.tiles.showcase]]
+      title = "Consequat"
+      subtitle = "Ipsum Dolor Sit Amet"
+      image = "pic05.jpg"
+      url = "blogs/ipsum"
+
+    [[params.tiles.showcase]]
+      title = "Nasze zrealizowane projekty"
+      subtitle = "Zobacz co dotychczas wybudowaliśmy"
+      image = "ogród_galeria.png"
+      url = "blogs/ipsum"
 
     # You can make more showcases by copy and pasting the code above
 
